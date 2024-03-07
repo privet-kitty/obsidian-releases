@@ -10806,5 +10806,12 @@
     "author": "Zhou Hua",
     "description": "Insert media information cards in Markdown, such as books, music, movies, etc.",
     "repo": "zhouhua/obsidian-markdown-media-card"
+  },
+  {
+    "id": "obsidian-blogger",
+    "name": "Obsidian Blogger",
+    "author": "Hugo Sansaqua",
+    "description": "Publish your Obsidian documents to Google Blogger.",
+    "repo": "privet-kitty/obsidian-blogger"
   }
 ]
